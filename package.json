@@ -2,7 +2,7 @@
   "name": "service-builder",
   "version": "0.0.1",
   "description": "Build server",
-  "main": "git.js",
+  "main": "build.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
