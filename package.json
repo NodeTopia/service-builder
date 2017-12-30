@@ -1,21 +1,21 @@
 {
-  "name": "service-git",
+  "name": "service-builder",
   "version": "0.0.1",
-  "description": "GIT server",
+  "description": "Build server",
   "main": "git.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NodeTopia/service-git.git"
+    "url": "git+https://github.com/NodeTopia/service-builder.git"
   },
   "author": "Tim <mangoraft@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NodeTopia/service-git/issues"
+    "url": "https://github.com/NodeTopia/service-builder/issues"
   },
-  "homepage": "https://github.com/NodeTopia/service-git#readme",
+  "homepage": "https://github.com/NodeTopia/service-builder#readme",
   "dependencies": {
     "async": "^2.6.0",
     "colors": "^1.1.2",
